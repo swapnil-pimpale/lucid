@@ -12,6 +12,7 @@ third party network monitoring tools. However these tools hog a significant
 amount of memory which affects the performance of other critical processes
 running on the VMs. Hence, we propose LUCID, a solution for monitoring network
 activity of VMs.
+
 LUCID will reside in Dom0 which is a controller OS of Xen Hypervisor, leading
 to centralized monitoring of multiple VM's. LUCID provides kernel level packet
 capture mechanism and archiving of the captured data. Efficient Indexing
