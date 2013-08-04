@@ -25,10 +25,17 @@ network activity especially during the dormant period. Hence the user gets a
 clear idea of what he is being charged for.
 
 Contributors:
+
 Raviraj Joshi
+
 Sagar Hotchandani
+
 Varun Wadhwa
+
 Bhargav Patel
+
 Swapnil Pimpale
+
 Mandar Naik
+
 Gaurav Suryagandh
